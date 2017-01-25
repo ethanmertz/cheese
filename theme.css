@@ -1,4 +1,6 @@
-
+html {
+    background-repeat: repeat;
+}
 header {font-family: Garamond, serif;
     font-weight: bold;
     background-color: lightyellow;
