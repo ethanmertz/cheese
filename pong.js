@@ -5,7 +5,7 @@ var animate = window.requestAnimationFrame ||
 
 var canvas = document.createElement('canvas');
 var width = 500;
-var height = 500;
+var height = 750;
 canvas.width = width;
 canvas.height = height;
 var context = canvas.getContext('2d');
