@@ -46,7 +46,7 @@ Paddle.prototype.render = function() {
 };
 
 function Player() {
-   this.paddle = new Paddle(225, 490, 50, 10);
+   this.paddle = new Paddle(225, 740, 50, 10);
 }
 
 function Computer() {
@@ -125,7 +125,7 @@ Ball.prototype.update = function(paddle1, paddle2) {
     alert("You Won!\nCurrent Score You: " + ++u_score+ " AI: "+ c_score);
   }
 
-  if(this.y > 500) { // a point was scored
+  if(this.y > 750) { // a point was scored
     this.x_speed = 2;
     this.y_speed = 4;
     this.x = 200;
