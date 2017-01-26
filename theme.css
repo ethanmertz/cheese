@@ -12,8 +12,14 @@ p {
   background-color: white;
 }
 img {
-    margin: 100px;
+    display: block;
+    margin: auto;
     max-width: 50%;
     max-height: 50%;
-    align-items: center;
+}
+script {
+    display: block;
+    margin: auto;
+    max-width: 50%;
+    max-height: 50%;
 }
