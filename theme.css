@@ -9,6 +9,7 @@ header {font-family: Garamond, serif;
 }
 p {
   margin: 10px 100px 10px 100px;
+  border-radius: 2px;
   background-color: white;
 }
 img {
