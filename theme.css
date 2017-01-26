@@ -9,8 +9,9 @@ header {font-family: Garamond, serif;
 }
 p {
   margin: 10px 100px 10px 100px;
-  border-radius: 4px;
+  border-radius: 8px;
   background-color: white;
+  font-size: 24px;
 }
 img {
     display: block;
