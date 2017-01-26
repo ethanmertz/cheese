@@ -7,3 +7,11 @@ header {font-family: Garamond, serif;
     background-color: lightyellow;
     text-align: center;
 }
+body {
+  magin: 100px;
+  background-color: white;
+}
+img {
+    max-width: 50%;
+    max-height: 50%;
+}
