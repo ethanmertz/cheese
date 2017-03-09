@@ -4,7 +4,7 @@ html {
 }
 header {font-family: Garamond, serif;
     font-weight: bold;
-    background-color: lightyellow;
+    background-image:  url(heading.jpg);
     text-align: center;
 }
 h1{
